@@ -1,0 +1,22 @@
+{
+  "name": "primitive-recursive-equality",
+  "version": "1.0.0",
+  "description": "example of equalities in JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazimcoder/Primitive-vs-Recursive-Equality-jest.git"
+  },
+  "author": "Mustafa Azim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazimcoder/Primitive-vs-Recursive-Equality-jest/issues"
+  },
+  "homepage": "https://github.com/mazimcoder/Primitive-vs-Recursive-Equality-jest#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
